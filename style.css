@@ -1,0 +1,17 @@
+/* estilos generales */
+body {
+    background: #000000;
+    background: -webkit-linear-gradient(to right, #434343, #000000);
+    background: linear-gradient(to right, #434343, #000000);
+}
+
+
+/* header */
+
+
+/* nav- */
+.logo {
+    --tamanio: 50px;
+    width: var(--tamanio);
+    height: var(--tamanio);
+}
